@@ -232,12 +232,17 @@ namespace ENS
         private void button3_Click(object sender, EventArgs e)
         {
             var form2 = new Form2();
-            form2.FormClosed += (_, _) => Show();
+            form2.FormClosed += (_, _) => System.Environment.Exit(0);
             form2.Show();
             Hide();
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
         {
 
         }

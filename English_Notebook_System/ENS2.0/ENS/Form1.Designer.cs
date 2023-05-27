@@ -177,6 +177,7 @@ namespace ENS
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "英语单词笔记本检索器";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();

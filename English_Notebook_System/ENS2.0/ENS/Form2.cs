@@ -23,9 +23,10 @@ namespace ENS
             int lines = 0;
             Class1.score = 100;
             Class1.times = 1;
-           
-            
-                Class1.form4.dataGridView1.ColumnCount = 11;
+
+            Class1.form4.FormClosed += (_, _) => System.Environment.Exit(0);
+
+            Class1.form4.dataGridView1.ColumnCount = 11;
                 for (int k = 0; k < 11; k++)
                 {
                     Class1.form4.dataGridView1.Columns[k].SortMode = DataGridViewColumnSortMode.NotSortable;
@@ -166,6 +167,7 @@ namespace ENS
             {
                 this.Dispose();
                 Form3 form3 = new Form3();
+                form3.FormClosed += (_, _) => System.Environment.Exit(0);
                 form3.ShowDialog();
             }
 
@@ -238,6 +240,7 @@ namespace ENS
             {
                 this.Dispose();
                 Form3 form3 = new Form3();
+                form3.FormClosed += (_, _) => System.Environment.Exit(0);
                 form3.ShowDialog();
             }
             else
@@ -310,6 +313,7 @@ namespace ENS
             {
                 this.Dispose();
                 Form3 form3 = new Form3();
+                form3.FormClosed += (_, _) => System.Environment.Exit(0);
                 form3.ShowDialog();
             }
             else
@@ -381,6 +385,7 @@ namespace ENS
             {
                 this.Dispose();
                 Form3 form3 = new Form3();
+                form3.FormClosed += (_, _) => System.Environment.Exit(0);
                 form3.ShowDialog();
             }
             else

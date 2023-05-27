@@ -48,5 +48,10 @@ namespace ENS
         {
             System.Environment.Exit(0);
         }
+
+        private void 答案解析页面_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

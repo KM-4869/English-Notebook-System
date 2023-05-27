@@ -81,6 +81,7 @@ namespace ENS
             this.Name = "答案解析页面";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "答案解析页面";
+            this.Load += new System.EventHandler(this.答案解析页面_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
