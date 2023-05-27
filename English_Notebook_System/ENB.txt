@@ -31,7 +31,7 @@ balk/bɔ:k/突然止步，拒绝   besiege/bɪ'si:dʒ/围攻   siege/si:dʒ/围�
 
 mound/maʊnd/土堆   subdue/səb'dju:/制服，压制   ignorant/'ɪgnərənt/无知的，无礼的    feudal封建制
 
-feud/fju:d/世仇，不和    federal联邦制    anarchy/'ænəkɪ/无政府状态，混乱   fuel/'fu:əl/燃料
+feud/fju:d/世仇，不和    federal联邦制    anarchy/'ænəkɪ/无政府状态，混乱   fuel/'fu:əl/燃料   funeral丧礼，殡葬的
 
 reminiscent/,remɪ'nɪsnt/让人联想到   exacerbate/ɪg'zæsəbeɪt/加剧，恶化   predicament/prɪ'dɪkəmənt/困境
 
@@ -305,7 +305,7 @@ badge/bædʒ/徽章   budge/bʌdʒ/让步，挪动   larynx/'lærɪŋks/喉   th
 
 sufficient/sə'fɪfnt/足够的   refrigerant/rɪ'frɪdʒərənt/制冷的   phonology/fə'nɒlədʒɪ/音系学
 
-virtual/'vɜːtʃʊəl/虚拟的，实质的   virtue/'vɜːtʃu:/美德   circular圆形的，传单   nourish/'nʌrɪʃ/养育，滋养
+virtual/'vɜːtʃʊəl/虚拟的,实质上,几乎   virtue/'vɜːtʃu:/美德   circular圆形的，传单   nourish/'nʌrɪʃ/养育，滋养
 
 nanny保姆   granny老奶奶   evoke/ɪ'vəʊk/唤起   eminent/'emɪnənt/杰出的
 
@@ -629,7 +629,7 @@ grin/grɪn/露齿而笑   grim/grɪm/严肃的，凄凉的   grid/grɪd/网格  
 
 Shakespeare莎士比亚   adequate/'ædɪkwət/足够的，令人满意的！   demand/dɪ'mɑːnd/强烈要求！
 
-threaten/'θretən/威胁   theater/'θɪətə/电影院   intimidate/ɪn'tɪmɪdeɪt/威胁   imitate/'ɪmɪteɪt/模仿
+threaten/'θretən/威胁   theater/'θɪətə/电影院   intimidate/ɪn'tɪmɪdeɪt/威胁   imitate/'ɪmɪteɪt/模仿   intimate亲密的
 
 prejudice/'predʒədɪs/偏见，歧视   objection反对的理由   not content with不满足于   nebulous/'nebjələs/朦胧的，星云的
 
@@ -755,7 +755,7 @@ sympathetic nervous system交感神经系统   physiological/,fɪzɪə'lɒdʒɪk
 
 encyclopedia/ɪn,saɪklə'pi:dɪə/百科全书！   household家庭；家喻户晓的   rebel造反，叛乱   repel击退，抵制
 
-commence/kə'mens/开始，着手   commend/kə'mend/赞许，推荐   commemorate/kə'meməreɪt/纪念   token令牌,代金券,象征性的   petty/'peti/琐碎的，小气的
+commence/kə'mens/开始，着手   commencement开端，毕业典礼   commend/kə'mend/赞许，推荐   commemorate/kə'meməreɪt/纪念   token令牌,代金券,象征性的   petty/'peti/琐碎的，小气的
 
 propagate/'prɒpəgeɪt/散播，繁殖，宣扬   propaganda/,prɒpə'gændə/鼓吹，宣传！   verify/'verɪfaɪ/核实；查证
 
@@ -777,7 +777,7 @@ asteroid/'æstərɔɪd/小行星！   aerobic/eə'rəʊbɪk/需氧的；有氧�
 
 repetitive/rɪ'petətɪv/重复乏味的！   commonplace平凡的；司空见惯   barbed wire铁丝网   barbed/bɑːbd/有刺的，讽刺的
 
-chronic/'krɒnɪk/慢性的；长期的！   margin/'mɑːdʒɪn/边缘；保证金   mobilize/'məʊbəlaɪz/动员；组织调动！
+chronic/'krɒnɪk/慢性的；长期的！   margin/'mɑːdʒɪn/页边距；差额利润   mobilize/'məʊbəlaɪz/动员；组织调动！
 
 cooperate/kəʊ'ɒpəreɪt/合作；协调！   corporate/'kɔ:pərət/公司的；公司   correspond相一致；通信   coordinate/kəʊ'ɔ:dɪneɪt/协调，配合；坐标！
 
@@ -801,7 +801,7 @@ maternity/mə'tɜːnəti/母性，怀孕的!   paternal/pə'tɜːnl/父亲的！
 
 country-specific国别的；国家级的   vibrate/vaɪbreɪt/振动   ultrasound/'ʌltrəsaʊnd/超声波！   dolphin/'dɒlfɪn/海豚
 
-tramp/træmp/流浪汉；长途跋涉   deadbeat游手好闲,精疲力尽   chain store/'tʃeɪn stɔ:r/连锁商店！   publicity/pʌb'lɪsəti/媒体的关注，报道！
+tramp/træmp/流浪汉；长途跋涉,踏步   deadbeat游手好闲,精疲力尽   chain store/'tʃeɪn stɔ:r/连锁商店！   publicity/pʌb'lɪsəti/媒体的关注，报道！
 
 coverage新闻报道，覆盖   shopping rush抢购   interrogate/ɪn'terəgeɪt/质问，审讯！   hotline热线电话
 
@@ -877,11 +877,11 @@ allege/ə'ledʒ/宣称，指控！   allergy/'ælədʒɪ/过敏!      mentor/'me
 
 lamp/læmp/灯   lump/lʌmp/块状，结块   limp/lɪmp/瘸的，无力的   limb/lɪm/四肢   lamb/læm/羊羔   lime/laɪm/酸橙，酸橙绿，石灰
 
-intern/ɪn'tɜːn/拘留；实习生   internship/'ɪntɜːnʃɪp/实习期，实习职位   infrastructure基础设施！
+intern/ɪn'tɜːn/拘留；实习生   internship/'ɪntɜːnʃɪp/实习期，实习职位   infrastructure基础设施！   lame瘸的
 
 parliament/'pɑːləmənt/议会；国会！   bar酒吧；禁止，阻拦   barber理发师   barrier/'bærɪə/障碍，壁垒！   minority/maɪ'nɒrəti/少数，少数的！
 
-early on在早期   intolerable/ɪn'tɒlərəbəl/无法忍受的！   curious/'kjʊrɪəs/好奇的！   tolerant/'tɒlərənt/宽容的！
+early on在早期   intolerable/ɪn'tɒlərəbəl/无法忍受的！   curious/'kjʊrɪəs/好奇的！   tolerant/'tɒlərənt/宽容的！   bare赤裸的，光秃的，仅仅
 
 corridor/'kɒrɪdɔ:/通道，走廊！   corrode/kə'rəʊd/腐蚀，损坏   assassinate/ə'sæsɪneɪt/暗杀，行刺！   disarray/,dɪsə'reɪ/无秩序的，杂乱的！
 
@@ -1093,7 +1093,7 @@ tin锡制的，罐头   rack架子，痛苦不堪   infirm孱弱的，多病的
 
 acquaint/ə'kweɪnt/使熟悉，使了解   acquaintance熟人   acquisition习得，获取   raid搜查，突击   plunge/plʌndʒ/俯冲，暴跌
 
-fraud/frɔd/欺诈，骗子   lofty崇高的，高耸的   hostile/'hɒstaɪl/敌对的   turbulent\'tɜrbjələnt\动荡的，骚乱的   formidable可怕的，令人畏惧的
+fraud/frɔd/欺诈，骗子   lofty崇高的，高耸的   hostile/'hɒstaɪl/敌对的 !   hostility敌对，强烈反对   turbulent/'tɜrbjələnt/动荡的，骚乱的   formidable可怕的，令人畏惧的
 
 abide/ə'baɪd/忍受，遵守   bubble泡沫   bulb电灯泡   aural/'ɔ:rəl/听觉的，耳的
 
@@ -1103,16 +1103,100 @@ once-in-a-generation千载难逢   instantiate/ɪn'stænfieɪt/实例化   insta
 
 subscribe订阅，捐赠   burglar/'bɜːglə/入室盗窃，窃贼   vacation假期   vocation职业，使命感
 
-peninsula/pə'nɪnsjələ/半岛！   derail脱轨，阻挠   hostage/'hɒstɪdʒ/人质   repository/rɪ'pɒzətri/储藏库，仓库   repertory/'repətri/储备，剧目
+peninsula/pə'nɪnsjələ/半岛！  pneumonia/nju:'məʊnɪə/肺炎！    derail脱轨，阻挠   hostage/'hɒstɪdʒ/人质   repository/rɪ'pɒzətri/储藏库，仓库   repertory/'repətri/储备，剧目
 
-amid在什么里   smuggle/'smʌgəl/走私团伙！   ring戒指，环，团伙   urgent priority当务之急   microbe/'maɪkrəʊb/细菌!
+amid在什么里   smuggle/'smʌgəl/走私团伙！   ring戒指，环，团伙   urgent priority当务之急   microbe/'maɪkrəʊb/细菌!   repertoire/'repətwɑː/全部剧目，全部才艺！！
 
 volume/'vɒlju:m/体积，容积，音量!   fall heir to继承   cohesive/kəʊ'hi:sɪv/粘合的，团结的！   coherent有条理的，连贯的   incoherent语无伦次的
 
 tone/təʊn/语气，腔调！   tune/tju:n/曲子，曲调   burst/bɜːst/爆裂   burst one's bubble使某人幻想破灭
 
-toll伤亡人数，通行费，丧钟   death toll死亡人数   poll民意调查   extremity/ɪk'streməti/手足，四肢   fatty deposit脂肪沉淀
+toll伤亡人数，通行费，丧钟   death toll死亡人数   poll民意调查   extremity/ɪk'streməti/手足，四肢   exempt免除，豁免   fatty deposit脂肪沉淀
 
-deficiency/dɪ'fɪʃənsɪ/缺乏，不足！   torrential/tə'renʃəl/奔流的，倾注的！   torrential rain暴雨
+deficiency/dɪ'fɪʃənsɪ/缺乏，不足！   torrential/tə'renʃəl/奔流的，倾注的！   torrential rain暴雨   be tempted to不禁   comtempt蔑视，轻视   contemplate打量，注视，冥思苦想
 
-prompt提示，促使，及时的   tempt诱惑，诱使   phobia/'fəʊbɪə/恐惧症   social phobia社交恐惧症
+prompt提示，促使，及时的   prompt reply及时的回复   tempt诱惑，诱使   phobia/'fəʊbɪə/恐惧症   social phobia社交恐惧症   attempt努力尝试，意图
+
+sock袜子   suck吮吸   soap香皂   soak浸泡，泡澡   soar飙升，翱翔   sour/'saʊə/酸的！
+
+sore/sɔ:r/疼痛   sore throat喉咙痛   recede/rɪ'si:d/渐渐远去，消退   intermittent间歇性的   dash sth off匆匆写，画
+
+expense消费   at the expense of以某物为代价   loop圈   loose宽松的
+
+reproach/rɪ'prəʊtʃ/责备，批评   look at her with reproach用责备的目光看着她   reciprocal/rɪ'sɪprəkəl/相互的，互惠的   reciprocal affection相互的爱慕
+
+segment部分，片段   sentiment情绪，看法   subsidy补贴，津贴   subsidiary/səb'sɪdɪərɪ/子公司
+
+hinge/hɪndʒ/合页   hinder妨碍   cradle摇篮   candle蜡烛   hinge on取决于
+
+drown/draʊn/淹没，使淹过!   drought/draʊt/干旱！   nail钉子，指甲   pail桶
+
+assume假设，装作，呈现出   precipitation降水，沉淀   mischievous/'mɪstʃɪvəs/恶作剧的   duly适时的，按时的
+
+very恰恰，正是   pin down查明，确定；阻止   shop floor车间，工作场所   dim变暗，暗淡的   in store即将到来，将要发生
+
+inexorable/ɪn'eksərəbl/不可阻止的，不可逆的！  exorable/'eksərəbl/可说服的，可打动的   inexcusable/ɪnɪk'skju:zəbəl/不可原谅的   slope斜坡   scope范围，视野，望远镜   deem认为
+
+circulation循环，发行量，销量   dirt尘土，污物   dirt-cheap廉价如土   the turn of the century世纪之交
+
+stylish时髦的，流行的   be taken for granted被视为理所当然   keep one's end up坚持下去   cater迎合，提供餐饮
+
+in re案由，关于   ruling法庭裁决，支配   obvious明显的，平淡无奇的   incidence发生率，入射   incident事件，事故
+
+loom隐约出现，悚然逼近，织布机   gloom暗淡，忧郁   gloomy暗淡的，沮丧的   dubious/'dju:bɪəs/可疑的   compelling令人信服的
+
+alleged/ə'ledʒd/所谓的，声称的！   so-called所谓的   supposed假定的，所谓的   celebrity/sə'lebrəti/名人，名望！
+
+interpersonal交际的，人际关系的   removed from移除，远离   cascade/kæ'skeɪd/小瀑布，传播链！   critical批判的，关键的
+
+at any rate无论如何，至少   gigantic/dʒaɪ'gæntɪk/巨大的，庞大的！   logistic物流，后勤   rake耙子   in rake迅速大量获取
+
+unseat挤走，赶下台   entrenched根深蒂固的   deter/dɪ'tɜː/打消念头，阻止！   to the effect that大意是
+
+shaky站不住脚的，摇晃的   invite邀请，招致   invent发明，编造，虚构   predatory/'predətri/食肉的   somewhat稍微，有点，或多或少
+
+Time was when曾几何时，曾经有段时间   There was a time when曾经有段时间   within reason合理地，正当的
+
+lopsided/lɒp'saɪdɪd/失衡的，偏袒的！   sergeant/'sɑːdʒənt/中士！   barren/'bærən/贫瘠的，不孕的   what's at stake重要的事
+
+tune in收听   tune out关掉，不听   enact/ɪ'nækt/颁布，制定，实施   anomalous/ə'nɒmələs/异常的！   whet/wet/刺激，开胃菜
+
+Uranus/'jʊərənəs/天王星！   meteorite/'mi:tɪəraɪt/陨石！   meteorological/mi:tɪərə'lɒdʒɪkəl/气象学！   fetch拿来，取   hatch孵化，舱门   the other way around相反地
+
+at last终于   director导演，主管   conductor指挥家，售票员   pretend伪装   pretendious自命不凡的，自负的   unpretendious谦逊的
+
+boot靴子，后备箱   boot up计算机启动   have the last word决定权   throttle/'θrɒtl/节流阀，压制喉咙，使窒息
+
+inflect弯曲，曲折   inflection point拐点   inflate膨胀   inflation通货膨胀   magazine杂志，弹匣，军火库
+
+nebula/'nebjələ/星云   stellar/'stelə/星球的，恒星的   lethal/'li:θəl/致命的，致死的！   repugnant/rɪ'pʌgnənt/令人极度反感的！   redundant/rɪ'dʌndənt/多余的，被解雇的！
+
+employ雇佣   deploy部署   deplore强烈反对，谴责   depart离职,启程,出发   prohibition禁令   superfluous/su:'pɜːflʊəs/多余的，过剩的！
+
+departure离开，出发   department部门   arrogant/'ærəgənt/傲慢的，自大的！   scrutinize/'skru:tənaɪz/仔细查看！   nod点头，打瞌睡   get the nod获得认可
+
+reflect on认真思考，仔细考虑   spur/spɜː/心血来潮，刺激促进！   persecution/,pɜːsɪ'kju:ʃən/（种族）迫害!   precaution/prɪ'kɔ:ʃən/预防措施！  procreation生育，生殖    cardinal红衣主教，基本的
+
+imperative/ɪm'perətɪv/极重要的，紧急的事！   proliferation/prə,lɪfə'reɪʃn/激增,(细胞)增生！   hate speech仇恨言论
+
+obsess/əb'ses/使着迷，心神不宁   user traffic用户流量   stake股份，火刑柱   activist激进分子   sufficient足够的，充分的
+
+alleviate/ə'li:vɪeɪt/减轻，缓和！   well-orchestrated精心策划的   veteran/'vetərən/老兵，退伍军人   vegetarian素食者
+
+loophole(法律)漏洞，空子   resign辞职，放弃   surrender投降，自首，屈服   ammunition弹药，军火
+
+bump碰撞，撞到   dump丢弃，垃圾场   damp潮湿，沮丧   dumb/dʌm/哑的，愚钝的，简易的   slap耳光，拍打   basin盆地，盆
+
+provocative煽动的，挑逗的   child rearing育儿   anything less than并不是，绝非(完整,完美,最强)   retrospect/'retrɒspekt/回想，回顾
+
+newsstand报摊，报刊亭   Madonna/mə'dɒnə/圣母玛利亚，圣母像   round-the-clock全天候的，二十四小时的   a piece of cake小菜一碟
+
+dove鸽子   doze瞌睡，打盹   dozen一打，十二个   sniff嗅，闻到   stiff僵硬的   sneeze打喷嚏
+
+soothe/su:ð/使平静，安抚   seethe沸腾   soothing/su:ð/安慰的，使人平静的   haircut理发   drop out辍学
+
+grounding基础   graduate school研究生院，研究所   post邮政，岗位   fourflod四倍，四重的   alike相同的，相似地
+
+holistic/hə'lɪstɪk/整体的，全面的！   contention看法，观点，争论   justification正当理由，合理解释   justice公平，正义的   wronged被冤枉的，被不公对待的
+
+upside好的一面，正面优势   downside缺点，负面   upside-down颠倒的
