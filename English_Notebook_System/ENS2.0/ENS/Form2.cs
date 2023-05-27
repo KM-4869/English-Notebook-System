@@ -17,7 +17,7 @@ namespace ENS
         public Form2()
         {
             InitializeComponent();
-            string filename = @"D:\English_Notebook_System\ENB.txt";
+            string filename = @"..\..\..\..\ENB.txt";
             StreamReader reader = new StreamReader(filename);
 
             int lines = 0;
@@ -435,6 +435,10 @@ namespace ENS
         private void Form2_Load(object sender, EventArgs e)
         {
 
+        }
+        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            
         }
     }
 }

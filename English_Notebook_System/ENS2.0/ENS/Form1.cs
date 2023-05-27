@@ -27,7 +27,7 @@ namespace ENS
         private void button1_Click(object sender, EventArgs e)
         {
             string input = textBox1.Text;
-            string filename = @"D:\English_Notebook_System\ENB.txt";
+            string filename = @"..\..\..\..\ENB.txt";
             StreamReader reader = new StreamReader(filename);
 
             int lines = 0;
@@ -231,12 +231,15 @@ namespace ENS
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Form2 form2 = new Form2();
-           
-            form2.ShowDialog();
-           
-         
+            var form2 = new Form2();
+            form2.FormClosed += (_, _) => Show();
+            form2.Show();
+            Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
