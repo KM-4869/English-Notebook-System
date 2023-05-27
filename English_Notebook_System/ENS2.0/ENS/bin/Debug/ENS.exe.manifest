@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ENS.exe" size="4922912">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ENS.exe" size="4923424">
       <assemblyIdentity name="ENS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7EL54yYBhbyHip/laDy+G2xiC5gHe8Xp4IkXRcHtqQg=</dsig:DigestValue>
+        <dsig:DigestValue>53J1D3iyn9wk1RQlM+0qRARrATJU1mrIYneNU8hP9SE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
