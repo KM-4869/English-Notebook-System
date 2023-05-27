@@ -5,8 +5,8 @@ a exe to help you manage and remember the words you write in a txt file
 并且记完一本又要换本子，既不环保而且用起来还要多带一本笔记本，所以写了此程序用于在TXT文件中多样化的快速查找检索记过的单词。2.0版本又
 增加了词汇量测试的功能，可以随机选取已经记过的单词将其中英文分开，用于测试。
 
-点击Code将整个文件夹下载至D盘，依此进入路径"D:\English_Notebook_System\ENS2.0\ENS\bin\Debug\ENS.exe"，点击应该就可以运行了。其中可以将使用者
-自己记的单词填入"D:\English_Notebook_System\ENB.txt"，这样就可以使用你自己的词库进行搜索和词汇测试了！
+点击Code将整个文件夹下载至D盘，依此进入路径"..\English_Notebook_System\ENS2.0\ENS\bin\Debug\ENS.exe"，点击应该就可以运行了。其中可以将使用者
+自己记的单词填入"..\English_Notebook_System\ENB.txt"，这样就可以使用你自己的词库进行搜索和词汇测试了！
 
 由于这是大二抽时间写的，水平有限，很多东西都写死了，不按指定规则存放单词就会报错。
 放置规则可参考我的ENB.txt。
